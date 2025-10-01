@@ -67,7 +67,6 @@ Rony_01_C|白皮卡车|600
 VH_MiniBus_01_C|大巴|600
 VH_BRDM_C|装甲车|600
 VH_Scooter_C|小电驴|600
-VH_Motorcycle_C|双人摩托|600
 VH_MotorcycleCart_C|三轮摩托|600
 VH_4SportCar_C|敞跑车|600
 VH_Motorglider_C|滑翔机|600
@@ -224,3 +223,7 @@ VH_Motorcycle_1_C|摩托|600
 VH_Motorcycle_2_C|摩托|600
 VH_Motorcycle_3_C|摩托|600
 VH_Scooter4_C|小绵羊|600
+VH_Scooter3_C|小绵羊|600
+VH_Scooter2_C|小绵羊|600
+VH_Scooter1_C|小绵羊|600
+VH_Motorcycle_4_C|摩托|600
