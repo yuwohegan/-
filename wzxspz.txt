@@ -227,3 +227,16 @@ VH_Scooter3_C|小绵羊|600
 VH_Scooter2_C|小绵羊|600
 VH_Scooter1_C|小绵羊|600
 VH_Motorcycle_4_C|摩托|600
+VH_MotorcycleCart_1_C|三轮摩托|600
+VH_MotorcycleCart_2_C|三轮摩托|600
+VH_MotorcycleCart_3_C|三轮摩托|600
+LadaNiva_01_C|吉普|600
+LadaNiva_02_C|吉普|600
+LadaNiva_C|吉普|600
+VH_Snowmobile_C|摩托|600
+VH_Snowbike_02_C|摩托|600
+VH_Snowbike_01_C|摩托|600
+VH_Snowbike_C|摩托|600
+BP_VH_tUK_1_C|三轮车|600
+BP_VH_tUK_C|三轮车|600
+BP_VH_tUK_2_C|三轮车|600
