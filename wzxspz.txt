@@ -220,3 +220,7 @@ BP_AirdropChipBox_C|金插空投|2000
 BuildingActor_ConcertStage_Music|天籁之音的窝|600
 EscapeBox_SpeEffect_C|超级物资箱|600
 capePlayerTombBox_C|辐射箱子|600
+VH_Motorcycle_1_C|摩托|600
+VH_Motorcycle_2_C|摩托|600
+VH_Motorcycle_3_C|摩托|600
+VH_Scooter4_C|小绵羊|600
