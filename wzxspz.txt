@@ -214,7 +214,6 @@ BP_HumanCannonBlockCamera_C|已放置弹射炮|600
 BlackCardWrapper_C|黑卡|600
 BP_GunGun_PickUp_C|重塑枪|600
 WarBoxBase_C|战损铁皮箱
-BP_MilitaryInnerWrapperList_C|已打开
 BP_AirdropChipBox_C|金插空投|2000
 BP_AirdropChipBox_Sup_C|金插空投|2000
 BuildingActor_ConcertStage_Music|天籁之音的窝|600
