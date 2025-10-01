@@ -26,7 +26,7 @@ BP_Pistol_Flaregun_60000_C|信号枪|600
 BP_Ammo_Flare_Pickup_C|信号弹|600
 ProjGrenade_BP_C|小心雷
 BP_Other_Mortar_Bullet_C|导弹·危|1000
-SuperPeopleSkillReplaceActor1_BP_C|金插|1000
+SuperPeopleSkillReplaceActor1_BP_C|金插|1200
 BP_Pistol_RevivalFlaregun_C|召回枪|600
 BP_Pistol_Flaregun_C|信号枪|600
 BP_Pistol_Flaregun_10000_C|信号枪|600
@@ -34,7 +34,7 @@ BP_Ammo_Flare_Pickup_C|信号弹|600
 ProjBurn_BP_C|燃烧瓶来了
 ProjSmoke_BP_C|烟雾弹来了
 BP_Grenade_Burn_Sallete_C|燃烧范围
-PlayerDeadInventoryBox_C|空投|600
+PlayerDeadInventoryBox_C|空投|2000
 BP_MZJ_3X_Pickup_C|3镜|600
 BP_MZJ_4X_Pickup_C|4倍|600
 BP_MZJ_6X_Pickup_C|6倍|600
@@ -177,9 +177,9 @@ SP_UpgradeBattleltem_Wrapper_C|金插盒|600
 BPPawn_Fly_CyberSpider_C|蜘蛛|600
 BuildingActor_ConcertStage_MusicGirl_BP_h6~8c|舞台|600
 VH_Dacia_3_New_C|轿车|600
-MilitarySupplyBoxBase_Baltic_Theme_C|物质箱|600
-MilitarySupplyBoxBase_Nezha_C|物质箱|600
-MilitarySupplyBoxBase_Baltic_Classic_C|物质箱|600
+MilitarySupplyBoxBase_Baltic_Theme_C|物质箱|1200
+MilitarySupplyBoxBase_Nezha_C|物质箱|1200
+MilitarySupplyBoxBase_Baltic_Classic_C|物质箱|1200
 BP_QT_ZH_Pickup_C|撞火|600
 BP_PickupWrapper_Key_C|钥匙|600
 BP_DJ_Sniper_E_Pickup_C|狙扩|600
@@ -216,8 +216,9 @@ BP_GunGun_PickUp_C|重塑枪|600
 WarBoxBase_C|战损铁皮箱
 BP_MilitaryInnerWrapperList_C|已打开
 BP_AirdropChipBox_C|金插空投|2000
+BP_AirdropChipBox_Sup_C|金插空投|2000
 BuildingActor_ConcertStage_Music|天籁之音的窝|600
-EscapeBox_SpeEffect_C|超级物资箱|600
+EscapeBox_SpeEffect_C|超级物资箱|1200
 capePlayerTombBox_C|辐射箱子|600
 VH_Motorcycle_1_C|摩托|600
 VH_Motorcycle_2_C|摩托|600
