@@ -97,6 +97,7 @@ BP_Sniper_AMR_C|AMR
 BP_Sniper_M200_C|M200
 BP_Sniper_Mk14_C|妹控
 BP_Sniper_Aug_C|Aug
+BP_Rifle_AUG_C|Aug
 BP_Rifle_Famas_C|法玛斯
 BP_Rifle_Groza_C|狗砸
 BP_MachineGun_P90CG17_C|P90
@@ -189,8 +190,8 @@ BP_Sniper_SVD_pickup_C|SVD|600
 BP_Sniper_AWM_Wrapper_C|AWM|600
 BP_Sniper_AMR_Wrapper_C|AMR|600
 BP_Sniper_M200_Wrapper_C|M200|600
-BP_Sniper_Mk14_Wrapper_C|妹控|600
-BP_Rifle_Aug_Wrapper_C|Aug|600
+BP_WEP_Mk14_Pickup_C|妹控|600
+BP_Rifle_AUG_Wrapper_C|AUG|600
 BP_Rifle_Famas_Wrapper_C|法玛斯|600
 BP_Rifle_Groza_Wrapper_C|狗砸|600
 BP_MachineGun_P90CG17_Wrapper_C|P90|600
@@ -240,3 +241,6 @@ VH_Snowbike_C|摩托|600
 BP_VH_tUK_1_C|三轮车|600
 BP_VH_tUK_C|三轮车|600
 BP_VH_tUK_2_C|三轮车|600
+VH_Mountainbike_Training_C|自行车|600
+BP_Other_SIG_M338_Wrapper_C|M338|600
+BP_Other_SIG_M338_C|M338|600
