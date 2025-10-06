@@ -62,8 +62,8 @@ BP_VH_Bigfoot_C|大脚车|600
 VH_ATV1_C|全地形车|600
 Mirado_close_1_C|跑车|600
 Mirado_open_1_C|敞跑车|600
-PickUp_02_C|皮卡车|600
-Rony_01_C|白皮卡车|600
+PickUp_02_C|皮卡|600
+Rony_01_C|白皮车|600
 VH_MiniBus_01_C|大巴|600
 VH_BRDM_C|装甲车|600
 VH_Scooter_C|小电驴|600
@@ -244,3 +244,4 @@ BP_VH_tUK_2_C|三轮车|600
 VH_Mountainbike_Training_C|自行车|600
 BP_Other_SIG_M338_Wrapper_C|M338|600
 BP_Other_SIG_M338_C|M338|600
+Rony_2_C|蓝皮卡|600
