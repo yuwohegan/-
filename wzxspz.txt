@@ -245,3 +245,5 @@ VH_Mountainbike_Training_C|自行车|600
 BP_Other_SIG_M338_Wrapper_C|M338|600
 BP_Other_SIG_M338_C|M338|600
 Rony_2_C|蓝皮卡|600
+Rony_3_C|绿皮卡|600
+FirstAidbox_Pickup_C|电脑|600
