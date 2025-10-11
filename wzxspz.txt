@@ -249,4 +249,6 @@ Rony_3_C|绿皮卡|600
 FirstAidbox_Pickup_C|电脑|600
 BP_Other_HuntingBow_Wrapper_C|爆炸弓|600
 BP_Other_HuntingBow_C|爆炸弓|600
-BP_Ammo_Boit_Pickup_C|箭|600
+BP_Ammo_Bolt_Pickup_C|箭|600
+BP_Other_CompoundBow_C|复合弓|600
+BP_Other_CompoundBow_Wrapper_C|复合弓|600
