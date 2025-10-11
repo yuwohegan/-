@@ -247,3 +247,6 @@ BP_Other_SIG_M338_C|M338|600
 Rony_2_C|蓝皮卡|600
 Rony_3_C|绿皮卡|600
 FirstAidbox_Pickup_C|电脑|600
+BP_Other_HuntingBow_Wrapper_C|爆炸弓|600
+BP_Other_HuntingBow_C|爆炸弓|600
+BP_Ammo_Boit_Pickup_C|箭|600
