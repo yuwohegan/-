@@ -252,3 +252,5 @@ BP_Other_HuntingBow_C|爆炸弓|600
 BP_Ammo_Bolt_Pickup_C|箭|600
 BP_Other_CompoundBow_C|复合弓|600
 BP_Other_CompoundBow_Wrapper_C|复合弓|600
+BP_Other_Shield_new_C|盾牌|600
+BP_ShotGun_DP12_C 0|DBS|600
