@@ -255,3 +255,10 @@ BP_Other_CompoundBow_Wrapper_C|复合弓|600
 BP_Other_Shield_new_C|盾牌
 BP_ShotGun_DP12_C|DBS
 VH_UAZ03_New_C|吉普|600
+BP_ShotGun_S12K_C|S12K
+BP_MachineGun_AKS74U_C|AKS74U
+BP_MachineGun_UMP9_C|UMP45
+BP_MachineGun_Uzi_C|Uzi
+BP_ShotGun_S686_C|S686
+BP_ShotGun_S1897_C|S1897
+BP_MachineGun_Vector_C|维克托
