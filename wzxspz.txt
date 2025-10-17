@@ -262,3 +262,4 @@ BP_MachineGun_Uzi_C|Uzi
 BP_ShotGun_S686_C|S686
 BP_ShotGun_S1897_C|S1897
 BP_MachineGun_Vector_C|维克托
+PickUp_SuperPeopleBag_Lv3_B_C|包|600
