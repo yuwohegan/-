@@ -265,3 +265,4 @@ BP_MachineGun_Vector_C|维克托
 PickUp_SuperPeopleBag_Lv3_B_C|包|600
 BP_Rifle_M417_Wrapper_C|M417|600
 BP_Sniper_MK20_Wrapper_C|MK20|600
+MilitarySupplyBoxBase_Baltic_Theme_C|物质箱|1200
