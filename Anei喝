@@ -24,15 +24,12 @@ BP_Ammo_RevivalFlare_Pickup_C 召回信号弹 255 255 255 255
 BP_Pistol_Flaregun_Wrapper_C 信号枪 255 255 255 255
 BP_Pistol_Flaregun_255 255 255 25500_C 信号枪 255 255 255 255
 BP_Ammo_Flare_Pickup_C 信号弹 255 255 255 255
-ProjGrenade_BP_C 小心雷 255 0 0 255
 BP_Other_Mortar_Bullet_C 导弹·危 255 0 0 255
 SuperPeopleSkillReplaceActor1_BP_C 金插 255 255 255 255
 BP_Pistol_RevivalFlaregun_C 召回枪 255 255 255 255
 BP_Pistol_Flaregun_C 信号枪 255 255 255 255
 BP_Pistol_Flaregun_10000_C 信号枪 255 255 255 255
 BP_Ammo_Flare_Pickup_C 信号弹 255 255 255 255
-ProjBurn_BP_C 燃烧瓶来了 255 0 0 255
-ProjSmoke_BP_C 烟雾弹来了 255 255 255 255
 BP_Grenade_Burn_Sallete_C 燃烧范围 255 0 0 255
 PlayerDeadInventoryBox_C 空投 255 255 255 255
 BP_MZJ_3X_Pickup_C 3镜 255 255 255 255
@@ -75,7 +72,6 @@ BP_ShotGun_AA12_C AA12 255 255 255 255
 BP_Rifle_M416_Wrapper_C M4 255 255 255 255
 ckUp_BP_Bag_Lv3_B_C 三级包 255 255 255 255
 ckUp_SuperPeopleBag_Lv3_B_C 三级包 255 255 255 255
-ProjGrenade_BP_C 危·雷 255 0 0 255
 AttachActor_Ring_BP_C 捏投掷物 255 255 255 255
 BP_QK_Sniper_Suppressor_Pickup_C 狙消音 255 255 255 255
 BP_QK_Large_Suppressor_Pickup_C 步消音 255 255 255 255
@@ -117,7 +113,6 @@ BP_PaintingGirl_MaskCreator_C 涂鸦领域装置部署地点 255 255 255 255
 BP_DolphinDancerBubbleWall_C 水幕 255 255 255 255
 BP_Cowboy_Win94_C 孤单枪手[手持] 255 255 255 255
 BP_Cowboy_Win94_Bullet_C 孤单枪手子弹 255 255 255 255
-ProjThermite_C 危·铝热弹来了 255 0 0 255
 sCanBattery_Destructible_P 油 255 255 255 255
 GasCanBattery_Destructible_Pickup_C 油 255 255 255 255
 Drink_Pickup_C 可乐 255 255 255 255
