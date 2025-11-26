@@ -25,7 +25,7 @@ BP_Pistol_Flaregun_Wrapper_C 信号枪 255 255 255 255
 BP_Pistol_Flaregun_255 255 255 25500_C 信号枪 255 255 255 255
 BP_Ammo_Flare_Pickup_C 信号弹 255 255 255 255
 ProjGrenade_BP_C 小心雷 255 0 0 255
-BP_Other_Mortar_Bullet_C 导弹·危 255 255 255 255
+BP_Other_Mortar_Bullet_C 导弹·危 255 0 0 255
 SuperPeopleSkillReplaceActor1_BP_C 金插 255 255 255 255
 BP_Pistol_RevivalFlaregun_C 召回枪 255 255 255 255
 BP_Pistol_Flaregun_C 信号枪 255 255 255 255
