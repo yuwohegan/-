@@ -193,7 +193,7 @@ BP_Sniper_MK20_Wrapper_C MK20 255 255 255 255
 MilitarySupplyBoxBase_Baltic_Theme_C 物质箱 255 255 255 255
 BP_MZJ_8X_Ballistics_Pickup_C 战术瞄准镜 255 255 255 255
 BP_WarDog_C 狗 255 255 255 255
-VH_Showball_C 雪球 255 255 255 255
+VH_Snowball_C 雪球 255 255 255 255
 BP_IceCube_C 冰 255 255 255 255
 BP_Pistol_icemakergun_Wrapper_C 造冰枪 255 255 255 255
 PickUp_BP_VH_Sleigh_Ground_C 雪橇车 255 255 255 255
@@ -202,6 +202,14 @@ BP_CG034_BigSnowFlake_Wrapper_C 大雪花 255 255 255 255
 BP_CG034_LittleSnowFlake_Wrapper_C 小雪花 255 255 255 255
 BP_DongBeiDance_Wrapper_C 手绢 255 255 255 255
 PickUp_BP_VH_Snowball_C 雪球生成器 255 255 255 255
-PickUp_IcePear_C 冻梨 255 255 255 255
-PickUp_Pear_C 梨 255 255 255 255
+Pickup_IcePear_C 冻梨 255 255 255 255
+Pickup_Pear_C 梨 255 255 255 255
 BP_WarDog_Whistle_PickUp_C 狗哨 255 255 255 255
+BP_PickUp_SnowBro_C 名刀 255 255 255 255
+VH_Sleigh_C 雪橇车 255 255 255 255
+BP_PickupWrapper_IceSkates_C 溜冰鞋 255 255 255 255
+BP_IceSkateAnimActor_C 滑行中 255 255 255 255
+PickUp_BP_Mountainbike1_C 自行车 255 255 255 255
+PickUp_BP_Mountainbike2_C 自行车 255 255 255 255
+PickUp_BP_Mountainbike3_C 自行车 255 255 255 255
+VH_Mountainbike_C 自行车 255 255 255 255
