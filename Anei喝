@@ -201,7 +201,7 @@ BP_WarDog_C 狗 255 255 255 255
 VH_Showball_C 雪球 255 255 255 255
 BP_IceCube_C 冰 255 255 255 255
 BP_Pistol_icemakergun_Wrapper_C 造冰枪 255 255 255 255
-BP_Sleigh_TrailMarkActor_C 雪橇车 255 255 255 255
+PickUp_BP_VH_Sleigh_Ground_C 雪橇车 255 255 255 255
 PickUp_BP_VH_Sleigh_C 雪橇车 255 255 255 255
 BP_CG034_BigSnowFlake_Wrapper_C 大雪花 255 255 255 255
 BP_CG034_LittleSnowFlake_Wrapper_C 小雪花 255 255 255 255
