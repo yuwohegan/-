@@ -291,4 +291,4 @@ VH_Mountainbike_C|自行车|600
 BP_CommercialWrapper_LV1_C|灰·密钥|600
 BP_CommercialWrapper_LV2_C|青·密钥|1200
 BP_CommercialWrapper_LV3_C|蓝·密钥|1200
-BP_CommercialWrapper_LV4_C|紫·密钥|1200
+BP_CommercialWrapper_LV4_C|金色传说|1200
